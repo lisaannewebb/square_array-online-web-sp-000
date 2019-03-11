@@ -1,7 +1,7 @@
 def square_array(array)
-  sqrt_arr = []
+  new_array = []
   array.each do | number |
-    sqrt_arr.push(number**2)
-    sqrt_arr
+    new_array.push(number**2)
+    new_array
   end
 end
