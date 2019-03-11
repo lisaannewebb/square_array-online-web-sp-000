@@ -6,4 +6,3 @@ def square_array(array)
  end
  return lisa_array
 end
-end
